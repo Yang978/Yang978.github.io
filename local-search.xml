@@ -4,6 +4,19 @@
   
   
   <entry>
+    <title>qt</title>
+    <link href="/2024/04/24/qt/"/>
+    <url>/2024/04/24/qt/</url>
+    
+    <content type="html"><![CDATA[<h1 id="1-qt开发环境搭建"><a href="#1-qt开发环境搭建" class="headerlink" title="1.qt开发环境搭建"></a>1.qt开发环境搭建</h1><p>1.1获取安装包</p><p>从官网获取</p><p><a href="https://www.qt.io/zh-cn/download"> 开发应用程序和嵌入式系统 | Qt</a></p><p>从开源镜像获取</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>博客搭建</title>
     <link href="/2024/04/23/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
     <url>/2024/04/23/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</url>
